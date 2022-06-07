@@ -1,0 +1,117 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(14, 117, 168);
+}
+
+#container{
+    margin: 1em auto;
+    width: 100%;
+    background:aliceblue;
+}
+
+#header{
+    background-color:rgb(208, 235, 165);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#mainnav{
+    background-color:rgb(113, 177, 240);
+    font-size: 20px;
+}
+
+#menu{
+    background-color:rgb(93, 149, 199);
+    float:right;
+    width: 20%;
+}
+
+#vid{
+    background-color: rgb(58, 186, 245);
+}
+
+
+
+#x{
+    color: rgb(3, 91, 190);
+    background-color: white;
+    
+}
+
+#contents{
+    float: left;
+    width: 77%;
+    background-color: rgb(218, 233, 246);
+    margin: 20px;
+}
+
+
+#footer{
+    clear: both;
+
+}
+
+#jj{
+    color: rgb(7, 6, 6);
+}
+#joao{
+    float:right;
+    
+}
+#debora{
+    background-color: rgb(69, 185, 252);
+} 
+
+#con{
+    margin: 1em auto;
+    width: 100%;
+    background:aliceblue;
+}
+
+#j{
+    float:right;
+}
+#header{
+    background-color:rgb(208, 235, 165);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#ma{
+    background-color:aliceblue;
+    font-size: 20px;
+}
+#footer{
+    clear: both;
+
+}
+#contents{
+    float: left;
+    width: 77%;
+    background-color: rgb(218, 233, 246);
+    margin: 20px;
+    
+}
+#i{
+    font-size: 90px;
+}
+#frase{
+    color: red;
+    font-size: x-large;
+    font-weight: bold;
+}
+h3{
+ color:darkkhaki;
+}
+h1{
+    color: red;
+    
+}
+.l{
+    position: absolute;
+    top: 250px;
+    right: 480px;
+}
+.m{
+    position: absolute;
+    top: 250px;
+    left: 1000px;
+}
